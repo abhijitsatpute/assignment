@@ -1,0 +1,11 @@
+def Chknum(x):
+
+    
+    if (x%2==0):
+        print("Number is even")
+    else:
+        print("number is odd")
+        
+x=int(input("enter the number?"))
+    
+Chknum(x)
